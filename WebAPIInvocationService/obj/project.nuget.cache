@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XgOd26EA+X91CjKTimJp8xX1utCfm8YYiE6kV+KODlMHVGEqe1TLgQ4/e42CmU3SMlEHWwfWhZHKVfq1RE7swg==",
+  "success": true,
+  "projectFilePath": "G:\\CTS Data\\Stage IV\\WebAPIInvocationService\\WebAPIInvocationService\\WebAPIInvocationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shrivalli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
